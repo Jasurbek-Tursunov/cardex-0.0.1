@@ -1,7 +1,7 @@
 # Documentation for CardEx Server!
 
 
-CARD
+- CARD
 ----
 * POST: http://192.168.1.9:8000/api/v1/card - Создание файла визитки
 
