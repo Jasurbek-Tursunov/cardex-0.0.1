@@ -1,4 +1,4 @@
-**# Documentation for CardEx Server!**
+# Documentation for CardEx Server!
 
 
 CARD
